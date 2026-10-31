@@ -1,6 +1,6 @@
 # Grant Tracker
 
-A small, free web page that helps a nonprofit team see every grant at a glance: where it stands, when it's due, and what's missing before the next meeting.
+A small, free web page that helps a nonprofit team see every grant at a glance: where it stands, when it's due, what's missing, and quick calendar imports to track deadlines more easily.
 
 **[Try it here](https://grant-tracker-pi.vercel.app/)**
 
