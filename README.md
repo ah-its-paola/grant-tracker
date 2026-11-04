@@ -81,11 +81,12 @@ Not tested:
 
 ## What's in this repo
 
-- `index.html` is the whole app. It's one file with no dependencies.
+- `index.html` is the whole app. It's one file with no code libraries.
+- `fonts/` holds the three typefaces the page can show (Newsreader, Instrument Sans, and OpenDyslexic). They are saved here so the page never calls Google or any other outside site. Their licenses are the `OFL-*.txt` files.
 - `Grant_Tracker_Template.xlsx` is the blank template.
 - `Spreadsheet_Cleanup_Prompt.txt` is the prompt for cleaning up an existing spreadsheet.
 
-To run it on your own computer, download `index.html` and open it in a browser.
+To run it on your own computer, download the whole project, not just `index.html`, so the fonts load. Then open `index.html` in a browser.
 
 ## License
 

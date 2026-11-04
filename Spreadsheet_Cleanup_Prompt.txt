@@ -1,0 +1,28 @@
+BEFORE YOU USE AI WITH YOUR DATA (read this, then copy only the prompt below the line)
+
+- Take out personal information first. That means names, emails, phone numbers and home addresses of donors, clients or staff.
+- Follow your organization's data and AI policy. If you are not sure what it says, ask before you upload anything.
+- Check your AI tool's settings and turn off training on your data if you can.
+- The grant tracker page cannot check your file for personal information. That part is up to you.
+
+----------------------------------------------------------------
+I have a grant spreadsheet. I want to move it into a template so a grant tracker app can read it. Please help me clean it up. I am attaching two files: (1) my spreadsheet and (2) the blank template.
+
+Please follow these rules:
+
+1. Do not change my original file. Make a new copy of the template and fill that in.
+2. The template has a tab called "Grants" with five columns: grant_id, funder, program, deadline, status. Keep those names exactly. The five columns can be in any order. Put one grant on each row.
+3. Do not make anything up. If a value is missing, leave it blank. If you are not sure about something, leave it blank and add it to a "Questions for me" list.
+4. grant_id: keep my IDs as they are. If I do not have IDs, number the rows G01, G02, G03 and so on, and tell me you did that.
+5. deadline: write dates as YYYY-MM-DD. If a date could be read two ways (like 03/04/26), do not guess. Ask me. If a grant has more than one date, ask me which one to use.
+6. status: use only these: Draft, Submitted, Awarded or Declined. Match the spelling and capital letters exactly. If one of my words does not clearly match one of these, do not guess. Ask me.
+7. Keep everything else. If my spreadsheet has other columns (notes, amounts, contacts and so on), keep them on the Grants tab, wherever I already have them. The tracker skips columns it does not need. If my file has other tabs, keep those too. Do not delete anything.
+8. Also copy my original sheet into the new file as a tab named "Original (untouched)".
+9. If my spreadsheet has personal information about people (such as names, emails, phone numbers or home addresses of donors, clients or staff), stop and tell me before you go on. Do not copy it into the Grants tab.
+
+When you are done, give me:
+- the new .xlsx file
+- a short list of what you changed
+- a "Questions for me" list of anything you were unsure about
+
+Please wait for my answers before you finish the rows that have questions.
